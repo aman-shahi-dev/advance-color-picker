@@ -6,7 +6,7 @@ and saves them beautifully in a UI card layout.
 
 ---
 
-## [Check it out]()
+## [Check it out](https://aman-shahi-dev.github.io/advance-color-picker/)
 
 ---
 
